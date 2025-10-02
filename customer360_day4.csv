@@ -1,0 +1,5 @@
+customer_id,name,segment,sessions,purchases,spend,top_page
+101,Alice,PREMIUM,2,1,250.0,Home
+102,Bob,STANDARD,1,1,100.0,Product
+104,Diana,PREMIUM,1,1,75.0,Checkout
+103,Charlie,STANDARD,1,0,0.0,Home

@@ -1,0 +1,6 @@
+session_id,customer_id,page_viewed,timestamp
+1,101,Home,2024-01-01 10:00
+2,102,Product,2024-01-01 10:05
+3,101,Cart,2024-01-01 10:10
+4,103,Home,2024-01-02 12:00
+5,104,Checkout,2024-01-02 12:15
